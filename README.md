@@ -1,4 +1,4 @@
-# Maze Solver Application <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif" alt="c" width="50" height="50"/>
+# Maze Solver Application <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif" alt="c" width="65" height="60"/>
 
 ### Overview:
  We are given an input (x,y) size of maze with Xs, the G Goal and your coordinate S. And the output will be coordinates of the path that was taken to reach the
